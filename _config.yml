@@ -69,8 +69,7 @@ netease_comment: false
 ba_track_id: c9c96e4dca0f4e44d53267a84cd53497
 
 # Google Analytics
-ga_track_id: "G-Q9GFD7ZG6R" # Format: UA-xxxxxx-xx
-ga_domain: yunloong.cn
+ga_track_id: "G-Q9GFD7ZG6R"
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
