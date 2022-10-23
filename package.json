@@ -6,9 +6,9 @@
     "homepage": "http://weidadedawei.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/weidadedawei/weidadedawei.github.io.git"
+        "url": "https://github.com/weidadedawei/weidadedawei.github.io"
     },
-    "bugs": "https://github.com/weidadedawei/weidadedawei.github.io.git/issues",
+    "bugs": "https://github.com/weidadedawei/weidadedawei.github.io/issues",
     "devDependencies": {
         "grunt": ">=1.3.0",
         "grunt-banner": "~0.2.3",
