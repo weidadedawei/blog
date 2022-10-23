@@ -15,7 +15,7 @@ future: true
 RSS: false
 # weibo_username: david
 # zhihu_username: huxpro
-github_username: weidadeadawei
+github_username: weidadedawei
 # twitter_username: huxpro
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
@@ -66,11 +66,11 @@ netease_comment: false
 
 # Analytics settings
 # Baidu Analytics
-# ba_track_id: [your track id]
+ba_track_id: c9c96e4dca0f4e44d53267a84cd53497
 
 # Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_track_id: "G-Q9GFD7ZG6R" # Format: UA-xxxxxx-xx
+ga_domain: yunloong.cn
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
@@ -91,12 +91,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
+    { title: "weidadedawei", href: "http://mida.re/" }
   ]
